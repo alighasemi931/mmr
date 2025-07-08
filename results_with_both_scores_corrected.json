@@ -1,0 +1,315 @@
+{
+    "query": "what is bitcoin",
+    "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "timestamp": "2025-07-07T16:52:44.528158",
+    "parameters": {
+        "fetch_k": 40,
+        "k": 20,
+        "lambda_mult": 0.7,
+        "similarity_threshold": 0.55
+    },
+    "initial_mmr_results": [
+        {
+            "text": "Bitcoin is a decentralized digital currency created by Satoshi Nakamoto, enabling direct peer-to-peer payments via blockchain technology. Miners validate transactions, earning bitcoins as a reward. The Bitcoin supply is capped at 21 million, potentially increasing its value over time. Bitcoin's unique technology and acceptance make it an interesting option for the future of money.",
+            "paraphrase_similarity_score": 0.7784,
+            "static_similarity_score": 0.4143
+        },
+        {
+            "text": "BitFuFu, with Bitcoin holdings exceeding 1,000 coins, has been included as a tracked entity in Bitwise's Bitcoin Standard Corporations ETF.",
+            "paraphrase_similarity_score": 0.77,
+            "static_similarity_score": 0.5417
+        },
+        {
+            "text": "Bitcoin is sometimes touted as a digital gold and hedge against financial instability. During international incidents, Bitcoin's role as a safe haven is tested, with potential for investors to flock to it amid weakness in traditional markets.",
+            "paraphrase_similarity_score": 0.7544,
+            "static_similarity_score": 0.3779
+        },
+        {
+            "text": "Bitcoin may become seen primarily as a corporate hedge or balance sheet gimmick, not as usable money. This distracts from Bitcoin’s original mission of being a decentralized peer-to-peer currency. There is no consumer demand for Bitcoin this way as a daily spender.",
+            "paraphrase_similarity_score": 0.7495,
+            "static_similarity_score": 0.4279
+        },
+        {
+            "text": "Bitcoin and crypto are no longer niche but foundational, as evidenced by the LFC's Bitcoin treasury strategy, influenced by GameStop and MicroStrategy, combined with innovative blockchain applications.",
+            "paraphrase_similarity_score": 0.7483,
+            "static_similarity_score": 0.4046
+        },
+        {
+            "text": "Bitcoin is defined as the largest cryptocurrency, designed as a decentralized virtual currency. Altcoins are cryptocurrencies other than Bitcoin. Stablecoins are designed to maintain a stable price, often pegged to assets like USD.",
+            "paraphrase_similarity_score": 0.7444,
+            "static_similarity_score": 0.4163
+        },
+        {
+            "text": "Bitcoin is recognized as a store of value and hedge against inflation. Bitcoin offers an alternative insulated from local economic fluctuations, accessible, divisible, and censorship resistant.",
+            "paraphrase_similarity_score": 0.7434,
+            "static_similarity_score": 0.3347
+        },
+        {
+            "text": "American Bitcoin is a subsidiary of Hut 8, supported by Eric Trump, and focuses on industrial-scale Bitcoin mining and strategic Bitcoin reserve development.",
+            "paraphrase_similarity_score": 0.739,
+            "static_similarity_score": 0.4943
+        },
+        {
+            "text": "Bitcoin Treasury Corporation relisted on the TSX Venture Exchange and acquired 292.8 Bitcoins as part of its institutional Bitcoin strategy.",
+            "paraphrase_similarity_score": 0.7384,
+            "static_similarity_score": 0.5392
+        },
+        {
+            "text": "Green Minerals describes its Bitcoin purchase as the start of a multi-year effort to build a Bitcoin treasury, integrating crypto into the fabric of its future operations, hedging against currency debasement.",
+            "paraphrase_similarity_score": 0.7365,
+            "static_similarity_score": 0.4253
+        },
+        {
+            "text": "Related news mentions Bitcoin (BTC) is also eyeing key breakouts.",
+            "paraphrase_similarity_score": 0.7334,
+            "static_similarity_score": 0.4017
+        },
+        {
+            "text": "A Bitcoin treasury firm is accumulating more Bitcoin, following its established strategy playbook.",
+            "paraphrase_similarity_score": 0.733,
+            "static_similarity_score": 0.5247
+        },
+        {
+            "text": "Recently, a flurry of companies have announced their Bitcoin treasury play, including crypto exchange Bakt, which recently filed for a $1 billion S-3 registration to fund Bitcoin acquisitions.",
+            "paraphrase_similarity_score": 0.7328,
+            "static_similarity_score": 0.3694
+        },
+        {
+            "text": "Alex Gladstein explained that Bitcoin allows individuals to protect their money from being frozen or devalued. Bitcoin is effective when used without linking personal identity to it, making it harder for authorities to track financial activity.",
+            "paraphrase_similarity_score": 0.7292,
+            "static_similarity_score": 0.3459
+        },
+        {
+            "text": "BitFuFu has become a tracked entity in Bitwise's Bitcoin Standard Corporations ETF due to its Bitcoin holdings exceeding 1,000 coins, signifying the company's prominent role in the Bitcoin mining industry.",
+            "paraphrase_similarity_score": 0.7286,
+            "static_similarity_score": 0.5399
+        },
+        {
+            "text": "American Bitcoin is a majority-owned subsidiary of Hut 8 Corp., focusing on industrial-scale Bitcoin mining, strategic Bitcoin reserve development, and commercial expertise from Eric Trump.",
+            "paraphrase_similarity_score": 0.724,
+            "static_similarity_score": 0.4304
+        },
+        {
+            "text": "Bitcoin, created in 2009 by Satoshi Nakamoto, laid the foundation for the modern digital asset industry.",
+            "paraphrase_similarity_score": 0.7234,
+            "static_similarity_score": 0.2062
+        },
+        {
+            "text": "Bitcoin is trading at $107,470.",
+            "paraphrase_similarity_score": 0.7199,
+            "static_similarity_score": 0.3313
+        },
+        {
+            "text": "Botanix also launched Bitcoin 2100, a browser-based game that teaches players “what’s possible when Bitcoin becomes programmable,” and allows them to collect tiny amounts of “free Bitcoin.”",
+            "paraphrase_similarity_score": 0.7129,
+            "static_similarity_score": 0.4764
+        },
+        {
+            "text": "Bitcoin Treasury Corporation plans to use its Bitcoin holdings for lending to institutions, offering liquidity while managing risk. Bitcoin is now a key part of how they plan to grow and operate.",
+            "paraphrase_similarity_score": 0.7118,
+            "static_similarity_score": 0.4831
+        },
+        {
+            "text": "BitMine, known for its Bitcoin focus, is partially pivoting to Ethereum. Until this month, the firm focused on Bitcoin, holding 154 BTC worth approximately $17 million.",
+            "paraphrase_similarity_score": 0.7116,
+            "static_similarity_score": 0.4768
+        },
+        {
+            "text": "Bitcoin is establishing itself as a major geopolitical force, emancipating citizens from authoritarian regimes and becoming an instrument of power for Western democracies. This duality is redefining global balances and could transform the nature of political power in the 21st century. Citizens must use it correctly.",
+            "paraphrase_similarity_score": 0.7115,
+            "static_similarity_score": 0.0845
+        },
+        {
+            "text": "BitFuFu, a Nasdaq-listed Bitcoin mining company, reported its mid-2025 performance, revealing a peak hashrate of 34.1 EH/s and Bitcoin holdings of 1,709 coins.",
+            "paraphrase_similarity_score": 0.7061,
+            "static_similarity_score": 0.4417
+        },
+        {
+            "text": "Michael Saylor describes Bitcoin as a 'monetary virus' and an 'ideology' that will transform the monetary system and financial markets. He predicted that Bitcoin-backed financial tools could generate trillions in profits for BTC holding companies.",
+            "paraphrase_similarity_score": 0.7044,
+            "static_similarity_score": 0.3305
+        },
+        {
+            "text": "Bitcoin is trading at $106,789.75 after a slight 0.92% dip over the past 24 hours. These volatilities haven’t deterred companies from strengthening their BTC positions.",
+            "paraphrase_similarity_score": 0.7019,
+            "static_similarity_score": 0.1408
+        },
+        {
+            "text": "Bitcoin DeFi (BTCFi) refers to decentralized finance applications that use Bitcoin's security and liquidity. It allows users to use their Bitcoin for lending, borrowing, trading, and yield generation, expanding Bitcoin's utility beyond just a store of value, providing broader functionality.",
+            "paraphrase_similarity_score": 0.7018,
+            "static_similarity_score": 0.4367
+        },
+        {
+            "text": "Bitcoin (BTC) is consolidating around the $107,000-$107,500 mark, trading around $107,402. The flagship cryptocurrency has been marginally down over the past 24 hours.",
+            "paraphrase_similarity_score": 0.7006,
+            "static_similarity_score": 0.1582
+        },
+        {
+            "text": "Bitcoin is the largest cryptocurrency, designed as decentralized money. Altcoins are any cryptocurrency apart from Bitcoin. Stablecoins are cryptocurrencies designed to have a stable price, pegged to a commodity or financial instrument. Bitcoin dominance reflects Bitcoin's market capitalization relative to the total crypto market.",
+            "paraphrase_similarity_score": 0.7006,
+            "static_similarity_score": 0.5109
+        },
+        {
+            "text": "Bitcoin-backed loans provide unmatched access to global financial markets. Borrowers can pledge their Bitcoin holdings to borrow fiat currency. It enables individuals to invest in businesses and education, unavailable with local currency.",
+            "paraphrase_similarity_score": 0.6992,
+            "static_similarity_score": 0.1801
+        },
+        {
+            "text": "Bitcoin has evolved from speculation to a cornerstone of finance with $544 billion in new capital since 2022. A report highlights Bitcoin's maturation as a standalone asset class, supported by on-chain dynamics, market microstructure, and macro linkages.",
+            "paraphrase_similarity_score": 0.6979,
+            "static_similarity_score": 0.3586
+        },
+        {
+            "text": "Livingston concludes that Bitcoin treasury companies could be the foundation of a Bitcoin-based financial system, potentially engineering the next global monetary standard.",
+            "paraphrase_similarity_score": 0.6979,
+            "static_similarity_score": 0.3675
+        },
+        {
+            "text": "Stablecoins are the most successful crypto products after Bitcoin, with a $251.33B market cap. They facilitate dApps and offer cost-effective international money transfers via blockchain networks.",
+            "paraphrase_similarity_score": 0.6944,
+            "static_similarity_score": 0.2842
+        },
+        {
+            "text": "According to analyst Rekt Capital, Bitcoin (BTC) is showing bullishness on the daily timeframe, having broken through a downtrend line for the second time in June. Bitcoin is trading for $107,302.",
+            "paraphrase_similarity_score": 0.6935,
+            "static_similarity_score": 0.405
+        },
+        {
+            "text": "Bitcoin remains in a bullish cycle and continues to dominate the global crypto market. Countries are advancing with stablecoin regulations and Bitcoin reserve strategies, indicating growing institutional acceptance.",
+            "paraphrase_similarity_score": 0.6924,
+            "static_similarity_score": 0.3632
+        },
+        {
+            "text": "Bitcoin's value is derived from network effects, security, increasing utility, halving events, inflows, and role as a macro hedge, according to 10x Research.",
+            "paraphrase_similarity_score": 0.6904,
+            "static_similarity_score": 0.2477
+        },
+        {
+            "text": "Bitcoin is widely accepted in decentralized gambling due to its security, transparency, and liquidity. It's used for large, high-stakes wagers where trust and liquidity are crucial, despite not being the fastest or cheapest option.",
+            "paraphrase_similarity_score": 0.6904,
+            "static_similarity_score": 0.1928
+        },
+        {
+            "text": "Bitcoin is the largest cryptocurrency, decentralized and eliminating third-party participation. Altcoins are cryptocurrencies other than Bitcoin (and sometimes Ethereum). Stablecoins are cryptocurrencies designed to have a stable price, pegged to assets like USD to provide an on/off-ramp for investors. Bitcoin dominance reflects Bitcoin's market capitalization relative to the total crypto market.",
+            "paraphrase_similarity_score": 0.6894,
+            "static_similarity_score": 0.4729
+        },
+        {
+            "text": "The Bitcoin blockchain supports supply chain tracking, digital identity, and data management. DeFi enables lending/borrowing operations for Bitcoin users. These uses build trust in Bitcoin's functionality beyond cryptocurrency markets.",
+            "paraphrase_similarity_score": 0.6893,
+            "static_similarity_score": 0.3904
+        },
+        {
+            "text": "A wave of companies has followed MicroStrategy Chairman Michael Saylor’s lead in adding Bitcoin to their assets. 250 businesses now hold Bitcoin, with 26 announcing BTC treasury strategies in June.",
+            "paraphrase_similarity_score": 0.6892,
+            "static_similarity_score": 0.342
+        },
+        {
+            "text": "Some Bitcoin purists criticize the idea of Bitcoin as the hurdle rate, viewing it as a gimmick used by Bitcoin treasury companies to promote their stocks. These critics argue that advocating for Bitcoin while selling traditional stocks is self-serving.",
+            "paraphrase_similarity_score": 0.6885,
+            "static_similarity_score": 0.581
+        }
+    ],
+    "final_filtered_results": [
+        {
+            "text": "Bitcoin is a decentralized digital currency created by Satoshi Nakamoto, enabling direct peer-to-peer payments via blockchain technology. Miners validate transactions, earning bitcoins as a reward. The Bitcoin supply is capped at 21 million, potentially increasing its value over time. Bitcoin's unique technology and acceptance make it an interesting option for the future of money.",
+            "paraphrase_similarity_score": 0.7784,
+            "static_similarity_score": 0.4143
+        },
+        {
+            "text": "BitFuFu, with Bitcoin holdings exceeding 1,000 coins, has been included as a tracked entity in Bitwise's Bitcoin Standard Corporations ETF.",
+            "paraphrase_similarity_score": 0.77,
+            "static_similarity_score": 0.5417
+        },
+        {
+            "text": "Bitcoin is sometimes touted as a digital gold and hedge against financial instability. During international incidents, Bitcoin's role as a safe haven is tested, with potential for investors to flock to it amid weakness in traditional markets.",
+            "paraphrase_similarity_score": 0.7544,
+            "static_similarity_score": 0.3779
+        },
+        {
+            "text": "Bitcoin may become seen primarily as a corporate hedge or balance sheet gimmick, not as usable money. This distracts from Bitcoin’s original mission of being a decentralized peer-to-peer currency. There is no consumer demand for Bitcoin this way as a daily spender.",
+            "paraphrase_similarity_score": 0.7495,
+            "static_similarity_score": 0.4279
+        },
+        {
+            "text": "Bitcoin and crypto are no longer niche but foundational, as evidenced by the LFC's Bitcoin treasury strategy, influenced by GameStop and MicroStrategy, combined with innovative blockchain applications.",
+            "paraphrase_similarity_score": 0.7483,
+            "static_similarity_score": 0.4046
+        },
+        {
+            "text": "Bitcoin is defined as the largest cryptocurrency, designed as a decentralized virtual currency. Altcoins are cryptocurrencies other than Bitcoin. Stablecoins are designed to maintain a stable price, often pegged to assets like USD.",
+            "paraphrase_similarity_score": 0.7444,
+            "static_similarity_score": 0.4163
+        },
+        {
+            "text": "Bitcoin is recognized as a store of value and hedge against inflation. Bitcoin offers an alternative insulated from local economic fluctuations, accessible, divisible, and censorship resistant.",
+            "paraphrase_similarity_score": 0.7434,
+            "static_similarity_score": 0.3347
+        },
+        {
+            "text": "American Bitcoin is a subsidiary of Hut 8, supported by Eric Trump, and focuses on industrial-scale Bitcoin mining and strategic Bitcoin reserve development.",
+            "paraphrase_similarity_score": 0.739,
+            "static_similarity_score": 0.4943
+        },
+        {
+            "text": "Bitcoin Treasury Corporation relisted on the TSX Venture Exchange and acquired 292.8 Bitcoins as part of its institutional Bitcoin strategy.",
+            "paraphrase_similarity_score": 0.7384,
+            "static_similarity_score": 0.5392
+        },
+        {
+            "text": "Green Minerals describes its Bitcoin purchase as the start of a multi-year effort to build a Bitcoin treasury, integrating crypto into the fabric of its future operations, hedging against currency debasement.",
+            "paraphrase_similarity_score": 0.7365,
+            "static_similarity_score": 0.4253
+        },
+        {
+            "text": "Related news mentions Bitcoin (BTC) is also eyeing key breakouts.",
+            "paraphrase_similarity_score": 0.7334,
+            "static_similarity_score": 0.4017
+        },
+        {
+            "text": "A Bitcoin treasury firm is accumulating more Bitcoin, following its established strategy playbook.",
+            "paraphrase_similarity_score": 0.733,
+            "static_similarity_score": 0.5247
+        },
+        {
+            "text": "Recently, a flurry of companies have announced their Bitcoin treasury play, including crypto exchange Bakt, which recently filed for a $1 billion S-3 registration to fund Bitcoin acquisitions.",
+            "paraphrase_similarity_score": 0.7328,
+            "static_similarity_score": 0.3694
+        },
+        {
+            "text": "Alex Gladstein explained that Bitcoin allows individuals to protect their money from being frozen or devalued. Bitcoin is effective when used without linking personal identity to it, making it harder for authorities to track financial activity.",
+            "paraphrase_similarity_score": 0.7292,
+            "static_similarity_score": 0.3459
+        },
+        {
+            "text": "BitFuFu has become a tracked entity in Bitwise's Bitcoin Standard Corporations ETF due to its Bitcoin holdings exceeding 1,000 coins, signifying the company's prominent role in the Bitcoin mining industry.",
+            "paraphrase_similarity_score": 0.7286,
+            "static_similarity_score": 0.5399
+        },
+        {
+            "text": "American Bitcoin is a majority-owned subsidiary of Hut 8 Corp., focusing on industrial-scale Bitcoin mining, strategic Bitcoin reserve development, and commercial expertise from Eric Trump.",
+            "paraphrase_similarity_score": 0.724,
+            "static_similarity_score": 0.4304
+        },
+        {
+            "text": "Bitcoin, created in 2009 by Satoshi Nakamoto, laid the foundation for the modern digital asset industry.",
+            "paraphrase_similarity_score": 0.7234,
+            "static_similarity_score": 0.2062
+        },
+        {
+            "text": "Bitcoin is trading at $107,470.",
+            "paraphrase_similarity_score": 0.7199,
+            "static_similarity_score": 0.3313
+        },
+        {
+            "text": "Botanix also launched Bitcoin 2100, a browser-based game that teaches players “what’s possible when Bitcoin becomes programmable,” and allows them to collect tiny amounts of “free Bitcoin.”",
+            "paraphrase_similarity_score": 0.7129,
+            "static_similarity_score": 0.4764
+        },
+        {
+            "text": "Bitcoin Treasury Corporation plans to use its Bitcoin holdings for lending to institutions, offering liquidity while managing risk. Bitcoin is now a key part of how they plan to grow and operate.",
+            "paraphrase_similarity_score": 0.7118,
+            "static_similarity_score": 0.4831
+        }
+    ]
+}

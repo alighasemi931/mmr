@@ -1,0 +1,316 @@
+{
+  "query": "Compare the recent news sentiment for Bitcoin versus Ethereum",
+  "primary_search_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "timestamp": "2025-07-08T10:18:43.219364",
+  "parameters": {
+    "fetch_k": 40,
+    "k": 20,
+    "lambda_mult": 0.7,
+    "similarity_threshold": 0.55
+  },
+  "execution_time_seconds": 0.82,
+  "initial_mmr_results_scored": [
+    {
+      "text": "Mentions related news regarding price predictions for Bitcoin, Ethereum, and Ripple.",
+      "paraphrase_similarity_score": 0.8305,
+      "static_similarity_score": 0.4977
+    },
+    {
+      "text": "Bitcoin and Ethereum have experienced a decline in optimistic sentiment since the end of May. The sentiment ratio of these cryptocurrencies has been negative, with an apprehensive attitude, offset by volatility and lowered market activity.",
+      "paraphrase_similarity_score": 0.7858,
+      "static_similarity_score": 0.4242
+    },
+    {
+      "text": "Thomas Lee of Fundstrat Global Advisors described Ethereum as a “higher beta” asset than Bitcoin due to its foundational role in stablecoin transactions and decentralized finance applications.",
+      "paraphrase_similarity_score": 0.7847,
+      "static_similarity_score": 0.1823
+    },
+    {
+      "text": "CRYPTOWZRD highlights Ethereum's indecisive close, indicating market uncertainty, while expressing optimism due to Bitcoin's strength.",
+      "paraphrase_similarity_score": 0.777,
+      "static_similarity_score": 0.2943
+    },
+    {
+      "text": "CRYPTOWZRD notes Bitcoin and BTC dominance are displaying strength, potentially benefiting Ethereum in the near term, with $2,800 as key resistance.",
+      "paraphrase_similarity_score": 0.7745,
+      "static_similarity_score": 0.2856
+    },
+    {
+      "text": "Bitcoin-based products attracted more than 83% of the total inflow last week, while Ethereum followed with an additional $429 million. This highlights Bitcoin's dominance in attracting investment within the crypto space, though Ethereum also shows significant, but lesser, inflows.",
+      "paraphrase_similarity_score": 0.7659,
+      "static_similarity_score": 0.2258
+    },
+    {
+      "text": "The success of Bitcoin and Ethereum ETFs points to increased competition, potential global adoption, and a stable demand floor for Ethereum, with possible evolution of crypto-linked investment products.",
+      "paraphrase_similarity_score": 0.7508,
+      "static_similarity_score": 0.2261
+    },
+    {
+      "text": "Related news mentions Bitcoin (BTC) is also eyeing key breakouts.",
+      "paraphrase_similarity_score": 0.7462,
+      "static_similarity_score": 0.3215
+    },
+    {
+      "text": "Ethereum (ETH) is outperforming Bitcoin (BTC), up 11% in seven days, attributed to bullish news: stablecoin regulatory clarity from the GENIUS Act, substantial ETH ETF inflows, and technical analysis suggesting a potential rise to $3,000.",
+      "paraphrase_similarity_score": 0.7435,
+      "static_similarity_score": 0.286
+    },
+    {
+      "text": "With Bitcoin above $100K, the market is optimistic. Ethereum could perform well in the second half of 2025, considering its January-April correction.",
+      "paraphrase_similarity_score": 0.7423,
+      "static_similarity_score": 0.1891
+    },
+    {
+      "text": "Key indicators, including Bitcoin's position within a multi-year upward channel and support at the one-year moving average, suggest the cryptocurrency remains in a bullish trend. The analyst highlights these factors to support his positive outlook.",
+      "paraphrase_similarity_score": 0.7406,
+      "static_similarity_score": 0.0758
+    },
+    {
+      "text": "The article notes current market conditions where leading altcoins and meme coins are not rallying despite a bullish market. Bitcoin and Ethereum are the primary focus, with altcoins not moving in tandem with Bitcoin's success.",
+      "paraphrase_similarity_score": 0.7392,
+      "static_similarity_score": 0.2477
+    },
+    {
+      "text": "Despite Bitcoin’s recent recovery, a different sentiment is growing in the market, potentially affecting the premier cryptocurrency’s future trajectory.",
+      "paraphrase_similarity_score": 0.7364,
+      "static_similarity_score": 0.3361
+    },
+    {
+      "text": "Historically, Bitcoin was seen as uncorrelated, but recent trends show an increasing correlation with equity indices like NASDAQ. A positive stock market opening may signal bullishness for crypto, with digital assets treated as risk-on assets.",
+      "paraphrase_similarity_score": 0.7315,
+      "static_similarity_score": 0.2596
+    },
+    {
+      "text": "Edul Patel from Mudrex notes Bitcoin is consolidating near $105,600 and highlights the importance of holding the $100,000 support level. CoinSwitch Markets Desk mentions profit-taking and a broader tech sell-off. Avinash Shekhar from Pi42 sees a pause in the market but mentions growing institutional interest in Ethereum. Sathvik Vishwanath from Unocoin discusses support and resistance levels for Bitcoin. Shivam Thakral from BuyUcoin points to dovish signals from the Fed as bullish for Bitcoin.",
+      "paraphrase_similarity_score": 0.7309,
+      "static_similarity_score": 0.1742
+    },
+    {
+      "text": "Fundstrat's Tom Lee claims Ethereum (ETH) could be the new Bitcoin (BTC) because of the recent rise in stablecoin adoption on the ETH network.",
+      "paraphrase_similarity_score": 0.7301,
+      "static_similarity_score": 0.4377
+    },
+    {
+      "text": "The ETH/BTC chart has been in a downtrend for nearly 30 months. While Bitcoin skyrocketed in value, Ethereum's gains were comparatively smaller, indicating a relative underperformance against Bitcoin.",
+      "paraphrase_similarity_score": 0.7293,
+      "static_similarity_score": 0.4276
+    },
+    {
+      "text": "The broader crypto market is still consolidating. Bitcoin is fighting to climb above $107,000. Likewise, Ethereum (ETH) has failed to surge above the $2,400 level.",
+      "paraphrase_similarity_score": 0.7274,
+      "static_similarity_score": 0.1401
+    },
+    {
+      "text": "The current rally in these altcoins comes at a time when major cryptocurrencies show minimal movement. Bitcoin and Ethereum have remained relatively flat over the past 24 hours.",
+      "paraphrase_similarity_score": 0.7271,
+      "static_similarity_score": 0.2873
+    },
+    {
+      "text": "BitMine's Ethereum treasury strategy emulates MicroStrategy's successful Bitcoin treasury model, which saw a 1,700% gain in share value. By accumulating crypto and selling debt against it.",
+      "paraphrase_similarity_score": 0.7267,
+      "static_similarity_score": 0.2028
+    },
+    {
+      "text": "Bit Digital, previously focused on Bitcoin operations, is making a strategic pivot to Ethereum staking and building an ETH reserve. This move reflects a belief in Ethereum's future and the benefits of its Proof-of-Stake consensus mechanism.",
+      "paraphrase_similarity_score": 0.7223,
+      "static_similarity_score": 0.2743
+    },
+    {
+      "text": "IntoTheBlock data shows Bitcoin Cash has only a weak positive correlation (+0.25) with Bitcoin over the past 30 days. It also exhibits a negative correlation with other popular altcoins like Ethereum and Dogecoin, indicating a disconnection from the broader altcoin market.",
+      "paraphrase_similarity_score": 0.722,
+      "static_similarity_score": 0.343
+    },
+    {
+      "text": "Bitcoin Cash's price movement has diverged from top crypto assets like Bitcoin, showing only a weak positive correlation with BTC and a negative correlation with other altcoins like Ethereum and Dogecoin. This divergence suggests Bitcoin Cash could be a safer bet amidst an ailing altcoin market.",
+      "paraphrase_similarity_score": 0.7212,
+      "static_similarity_score": 0.3362
+    },
+    {
+      "text": "In mid-2025, Bitcoin leads with institutional adoption. Ethereum excels in DeFi, Solana gains developer traction, XRP expands in payments, and Litecoin/Dogecoin maintain value due to community backing.",
+      "paraphrase_similarity_score": 0.7199,
+      "static_similarity_score": 0.1794
+    },
+    {
+      "text": "Ethereum (ETH) outperformed Bitcoin (BTC) in Q2 with a 37.04% gain, but this was largely due to one explosive month. This contrasts with Bitcoin's steady performance.",
+      "paraphrase_similarity_score": 0.719,
+      "static_similarity_score": 0.2989
+    },
+    {
+      "text": "Bitcoin offers trust, Ethereum delivers innovation, and USDT ensures stability in Web3. Platforms like Dexsport set the standard by combining these with multi-chain speed, no KYC, anonymity, and verifiable fairness for the best crypto gambling experience.",
+      "paraphrase_similarity_score": 0.7155,
+      "static_similarity_score": 0.2188
+    },
+    {
+      "text": "The divergence in Ethereum and Bitcoin's performance raises a tactical question for allocators: whether to chase Ethereum's beta or position around Bitcoin's resilience as H2 begins.",
+      "paraphrase_similarity_score": 0.7154,
+      "static_similarity_score": 0.3262
+    },
+    {
+      "text": "The Bitcoin blockchain shows a quieter story than the price suggests. Active addresses have not responded to the price rally. The network activity index, which combines several on-chain metrics, is also trending lower. This means the actual usage of the Bitcoin network has not mirrored the excitement seen on price charts.",
+      "paraphrase_similarity_score": 0.7147,
+      "static_similarity_score": 0.193
+    },
+    {
+      "text": "On-chain metrics favor Ethereum, with the cryptocurrency ranking highly in various categories. It currently stands as the second-highest by fees, leads in bridged net flows, and ranks third in stablecoin supply changes, showcasing its robust market position.",
+      "paraphrase_similarity_score": 0.7145,
+      "static_similarity_score": 0.0751
+    },
+    {
+      "text": "Bitcoin surged to $108,000 due to institutional inflows. Ethereum stabilized above $2,400 with increased activity. Filecoin saw rising attention amidst decentralized storage adoption.",
+      "paraphrase_similarity_score": 0.7126,
+      "static_similarity_score": 0.1331
+    },
+    {
+      "text": "Bitcoin has outperformed Ethereum over the past year, leading to ETH being 'undervalued and under-owned'. BTC rose +74% while ETH fell -28%. The crypto intelligence firm suggests that a rotation towards ETH is likely because BTC's dominance is stretched.",
+      "paraphrase_similarity_score": 0.7119,
+      "static_similarity_score": 0.2636
+    },
+    {
+      "text": "The controversy surrounding 'paper Bitcoin' and its impact on the cryptocurrency market intensifies, sparking debate about price suppression and market transparency. Adam Back refutes claims of widespread 'paper Bitcoin,' while Lawrence Lepard cites futures data as evidence of its existence.",
+      "paraphrase_similarity_score": 0.7112,
+      "static_similarity_score": 0.2454
+    },
+    {
+      "text": "Rising Ethereum strength, where the Ethereum price starts to outperform the Bitcoin price, has often signaled the start of the altcoin season. Investors should watch for the ETH/BTC chart to strengthen and Bitcoin to show sideways movement. This opens the door for altcoins to rally.",
+      "paraphrase_similarity_score": 0.7105,
+      "static_similarity_score": 0.3281
+    },
+    {
+      "text": "Cryptocurrency adoption is accelerating beyond Bitcoin, with Ethereum taking a prominent role. Major corporations and banks are beginning to purchase and stake Ethereum, boosting trust and interest in the digital asset, potentially resulting in more demand and price uptrends.",
+      "paraphrase_similarity_score": 0.7098,
+      "static_similarity_score": 0.251
+    },
+    {
+      "text": "Bitcoin is designed for value storage. Ethereum introduced smart contracts and shifted to PoS. Solana uses Proof of History + PoS. Avalanche has a subnet architecture; Polkadot is a heterogeneous multichain framework.",
+      "paraphrase_similarity_score": 0.7095,
+      "static_similarity_score": 0.1779
+    },
+    {
+      "text": "Bitwise Europe's latest Crypto Market Compass indicates strong bullish sentiment for Bitcoin, supported by positive signals across risk appetite, liquidity, and macro momentum. The report highlights Bitcoin's recent rebound and suggests a significant tailwind for the asset.",
+      "paraphrase_similarity_score": 0.707,
+      "static_similarity_score": 0.3917
+    },
+    {
+      "text": "Tom Lee believes Ethereum will benefit from traditional finance moving on-chain and increased stablecoin demand. He views stablecoins as the 'ChatGPT' of crypto, leading to rapid adoption by consumers, merchants, and financial service providers. Banks will be staking Ethereum to fund and operate their stablecoins.",
+      "paraphrase_similarity_score": 0.7068,
+      "static_similarity_score": 0.1351
+    },
+    {
+      "text": "Ethereum is trading at 0.02256 BTC, continuing a downtrend since early 2023. ETH has underperformed significantly against Bitcoin. A reversal could signal broader altcoin strength if Ethereum can close above 0.025 BTC and flip the 50-week moving average into support.",
+      "paraphrase_similarity_score": 0.7057,
+      "static_similarity_score": 0.2764
+    },
+    {
+      "text": "CoinShares' mid-June report indicates $1.3 billion flowed into Bitcoin-focused investment products, compared to $583 million for Ethereum and minimal inflows for altcoins. This marks nine consecutive weeks of positive inflows, emphasizing institutional preference for BTC and ETH.",
+      "paraphrase_similarity_score": 0.7042,
+      "static_similarity_score": 0.2929
+    },
+    {
+      "text": "On-chain trends remain supportive for Bitcoin, with rising ETF inflows and exchange outflows hinting at institutional accumulation. However, profit-taking and macro uncertainty continue to weigh on short-term sentiment. Traders are watching closely for confirmation of the next major move in BTC.",
+      "paraphrase_similarity_score": 0.7036,
+      "static_similarity_score": 0.2497
+    }
+  ],
+  "final_filtered_results": [
+    {
+      "text": "Mentions related news regarding price predictions for Bitcoin, Ethereum, and Ripple.",
+      "paraphrase_similarity_score": 0.8305,
+      "static_similarity_score": 0.4977
+    },
+    {
+      "text": "Bitcoin and Ethereum have experienced a decline in optimistic sentiment since the end of May. The sentiment ratio of these cryptocurrencies has been negative, with an apprehensive attitude, offset by volatility and lowered market activity.",
+      "paraphrase_similarity_score": 0.7858,
+      "static_similarity_score": 0.4242
+    },
+    {
+      "text": "Thomas Lee of Fundstrat Global Advisors described Ethereum as a “higher beta” asset than Bitcoin due to its foundational role in stablecoin transactions and decentralized finance applications.",
+      "paraphrase_similarity_score": 0.7847,
+      "static_similarity_score": 0.1823
+    },
+    {
+      "text": "CRYPTOWZRD highlights Ethereum's indecisive close, indicating market uncertainty, while expressing optimism due to Bitcoin's strength.",
+      "paraphrase_similarity_score": 0.777,
+      "static_similarity_score": 0.2943
+    },
+    {
+      "text": "CRYPTOWZRD notes Bitcoin and BTC dominance are displaying strength, potentially benefiting Ethereum in the near term, with $2,800 as key resistance.",
+      "paraphrase_similarity_score": 0.7745,
+      "static_similarity_score": 0.2856
+    },
+    {
+      "text": "Bitcoin-based products attracted more than 83% of the total inflow last week, while Ethereum followed with an additional $429 million. This highlights Bitcoin's dominance in attracting investment within the crypto space, though Ethereum also shows significant, but lesser, inflows.",
+      "paraphrase_similarity_score": 0.7659,
+      "static_similarity_score": 0.2258
+    },
+    {
+      "text": "The success of Bitcoin and Ethereum ETFs points to increased competition, potential global adoption, and a stable demand floor for Ethereum, with possible evolution of crypto-linked investment products.",
+      "paraphrase_similarity_score": 0.7508,
+      "static_similarity_score": 0.2261
+    },
+    {
+      "text": "Related news mentions Bitcoin (BTC) is also eyeing key breakouts.",
+      "paraphrase_similarity_score": 0.7462,
+      "static_similarity_score": 0.3215
+    },
+    {
+      "text": "Ethereum (ETH) is outperforming Bitcoin (BTC), up 11% in seven days, attributed to bullish news: stablecoin regulatory clarity from the GENIUS Act, substantial ETH ETF inflows, and technical analysis suggesting a potential rise to $3,000.",
+      "paraphrase_similarity_score": 0.7435,
+      "static_similarity_score": 0.286
+    },
+    {
+      "text": "With Bitcoin above $100K, the market is optimistic. Ethereum could perform well in the second half of 2025, considering its January-April correction.",
+      "paraphrase_similarity_score": 0.7423,
+      "static_similarity_score": 0.1891
+    },
+    {
+      "text": "Key indicators, including Bitcoin's position within a multi-year upward channel and support at the one-year moving average, suggest the cryptocurrency remains in a bullish trend. The analyst highlights these factors to support his positive outlook.",
+      "paraphrase_similarity_score": 0.7406,
+      "static_similarity_score": 0.0758
+    },
+    {
+      "text": "The article notes current market conditions where leading altcoins and meme coins are not rallying despite a bullish market. Bitcoin and Ethereum are the primary focus, with altcoins not moving in tandem with Bitcoin's success.",
+      "paraphrase_similarity_score": 0.7392,
+      "static_similarity_score": 0.2477
+    },
+    {
+      "text": "Despite Bitcoin’s recent recovery, a different sentiment is growing in the market, potentially affecting the premier cryptocurrency’s future trajectory.",
+      "paraphrase_similarity_score": 0.7364,
+      "static_similarity_score": 0.3361
+    },
+    {
+      "text": "Historically, Bitcoin was seen as uncorrelated, but recent trends show an increasing correlation with equity indices like NASDAQ. A positive stock market opening may signal bullishness for crypto, with digital assets treated as risk-on assets.",
+      "paraphrase_similarity_score": 0.7315,
+      "static_similarity_score": 0.2596
+    },
+    {
+      "text": "Edul Patel from Mudrex notes Bitcoin is consolidating near $105,600 and highlights the importance of holding the $100,000 support level. CoinSwitch Markets Desk mentions profit-taking and a broader tech sell-off. Avinash Shekhar from Pi42 sees a pause in the market but mentions growing institutional interest in Ethereum. Sathvik Vishwanath from Unocoin discusses support and resistance levels for Bitcoin. Shivam Thakral from BuyUcoin points to dovish signals from the Fed as bullish for Bitcoin.",
+      "paraphrase_similarity_score": 0.7309,
+      "static_similarity_score": 0.1742
+    },
+    {
+      "text": "Fundstrat's Tom Lee claims Ethereum (ETH) could be the new Bitcoin (BTC) because of the recent rise in stablecoin adoption on the ETH network.",
+      "paraphrase_similarity_score": 0.7301,
+      "static_similarity_score": 0.4377
+    },
+    {
+      "text": "The ETH/BTC chart has been in a downtrend for nearly 30 months. While Bitcoin skyrocketed in value, Ethereum's gains were comparatively smaller, indicating a relative underperformance against Bitcoin.",
+      "paraphrase_similarity_score": 0.7293,
+      "static_similarity_score": 0.4276
+    },
+    {
+      "text": "The broader crypto market is still consolidating. Bitcoin is fighting to climb above $107,000. Likewise, Ethereum (ETH) has failed to surge above the $2,400 level.",
+      "paraphrase_similarity_score": 0.7274,
+      "static_similarity_score": 0.1401
+    },
+    {
+      "text": "The current rally in these altcoins comes at a time when major cryptocurrencies show minimal movement. Bitcoin and Ethereum have remained relatively flat over the past 24 hours.",
+      "paraphrase_similarity_score": 0.7271,
+      "static_similarity_score": 0.2873
+    },
+    {
+      "text": "BitMine's Ethereum treasury strategy emulates MicroStrategy's successful Bitcoin treasury model, which saw a 1,700% gain in share value. By accumulating crypto and selling debt against it.",
+      "paraphrase_similarity_score": 0.7267,
+      "static_similarity_score": 0.2028
+    }
+  ]
+}
