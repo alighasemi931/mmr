@@ -7,9 +7,11 @@ import numpy as np
 import json
 from datetime import datetime
 from time import time
-
+import os
+from dotenv import load_dotenv
+load_dotenv(override=True)
 # ---------- Model Definitions ----------
-# نام مدل‌ها را در یک دیکشنری برای مدیریت آسان‌تر تعریف می‌کنیم
+
 MODEL_NAMES = {
     "Paraphrase (MiniLM)": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "Static Similarity (MRL)": "sentence-transformers/static-similarity-mrl-multilingual-v1"
@@ -17,13 +19,12 @@ MODEL_NAMES = {
 
 # ---------- Database Connection ----------
 def connect_to_db():
-    """Establishes a connection to the MySQL database."""
     return mysql.connector.connect(
-        host='192.168.1.14',
-        user='root',
-        password="12345",
-        database="niki7",
-        port=3306
+        host=os.getenv('HOST'),
+        user=os.getenv('USER'),
+        password=os.getenv('PASSWORD'),
+        database=os.getenv('DATABASE'),
+        port=os.getenv('PORT')
     )
 
 def get_crypto_news_from_db(limit=None):

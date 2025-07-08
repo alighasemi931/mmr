@@ -7,15 +7,17 @@ import numpy as np
 import json
 from datetime import datetime
 from time import time
-
+import os
+from dotenv import load_dotenv
+load_dotenv(override=True)
 # ---------- Database Connection ----------
 def connect_to_db():
     return mysql.connector.connect(
-        host='192.168.1.14',
-        user='root',
-        password="12345",
-        database="niki7",
-        port=3306
+        host=os.getenv('HOST'),
+        user=os.getenv('USER'),
+        password=os.getenv('PASSWORD'),
+        database=os.getenv('DATABASE'),
+        port=os.getenv('PORT')
     )
 
 def get_crypto_news_from_db(limit=None):
